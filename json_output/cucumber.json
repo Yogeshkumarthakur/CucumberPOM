@@ -12,50 +12,38 @@
         "steps": [
           {
             "result": {
-              "duration": 11106334600,
-              "status": "passed"
+              "status": "undefined"
             },
             "line": 5,
             "name": "user opens browser",
-            "match": {
-              "location": "HomePageSteps.user_opens_browser()"
-            },
+            "match": {},
             "keyword": "Given "
           },
           {
             "result": {
-              "duration": 32062400,
-              "status": "passed"
+              "status": "undefined"
             },
             "line": 6,
             "name": "user is on login page",
-            "match": {
-              "location": "HomePageSteps.user_is_on_login_page()"
-            },
+            "match": {},
             "keyword": "Then "
           },
           {
             "result": {
-              "duration": 7718138100,
-              "status": "passed"
+              "status": "undefined"
             },
             "line": 7,
             "name": "user logs into app",
-            "match": {
-              "location": "HomePageSteps.user_logs_into_app()"
-            },
+            "match": {},
             "keyword": "Then "
           },
           {
             "result": {
-              "duration": 5283400,
-              "status": "passed"
+              "status": "undefined"
             },
             "line": 8,
             "name": "validate home page title",
-            "match": {
-              "location": "HomePageSteps.validate_home_page_title()"
-            },
+            "match": {},
             "keyword": "Then "
           }
         ]
@@ -65,6 +53,6 @@
     "description": "",
     "id": "free-crm-application-test",
     "keyword": "Feature",
-    "uri": "C:/Users/Yogesh/eclipse-workspace/Java Training/CucumberPOM/src/main/java/com/qa/features/freecrm.feature"
+    "uri": "C:/Users/Yogesh/Codes/CucumberPOM/CucumberPOMProject/src/main/java/com/qa/features/freecrm.feature"
   }
 ]

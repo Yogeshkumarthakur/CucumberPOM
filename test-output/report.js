@@ -1,4 +1,4 @@
-$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("C:/Users/Yogesh/eclipse-workspace/Java Training/CucumberPOM/src/main/java/com/qa/features/freecrm.feature");
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("C:/Users/Yogesh/Codes/CucumberPOM/CucumberPOMProject/src/main/java/com/qa/features/freecrm.feature");
 formatter.feature({
   "line": 1,
   "name": "Free CRM Application Test",
@@ -34,32 +34,20 @@ formatter.step({
   "name": "validate home page title",
   "keyword": "Then "
 });
-formatter.match({
-  "location": "HomePageSteps.user_opens_browser()"
-});
+formatter.match({});
 formatter.result({
-  "duration": 11106334600,
-  "status": "passed"
+  "status": "undefined"
 });
-formatter.match({
-  "location": "HomePageSteps.user_is_on_login_page()"
-});
+formatter.match({});
 formatter.result({
-  "duration": 32062400,
-  "status": "passed"
+  "status": "undefined"
 });
-formatter.match({
-  "location": "HomePageSteps.user_logs_into_app()"
-});
+formatter.match({});
 formatter.result({
-  "duration": 7718138100,
-  "status": "passed"
+  "status": "undefined"
 });
-formatter.match({
-  "location": "HomePageSteps.validate_home_page_title()"
-});
+formatter.match({});
 formatter.result({
-  "duration": 5283400,
-  "status": "passed"
+  "status": "undefined"
 });
 });
